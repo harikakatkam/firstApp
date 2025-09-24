@@ -1,3 +1,3 @@
 # firstApp
 
-# A simple Flask application
+# A simple application
